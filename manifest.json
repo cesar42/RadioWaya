@@ -1,6 +1,6 @@
 {
-	"name": "Radio Waya",
-	"short_name": "Radio Waya ¡La Primero Radio Burger!",
+	"name": "Radio Guaya",
+	"short_name": "Radio Guaya",
 	"description": "Siempre Contigo  24/7",
 	"icons" : [
 		 {
@@ -38,6 +38,7 @@
 		"music"
 	]
 }
+
 
 
 
